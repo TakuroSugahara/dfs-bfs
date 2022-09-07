@@ -1,4 +1,4 @@
-const search = require("./dfs")
+const search = require("./search")
 
 const grid = [
   ["1","1","0","0","0"],
